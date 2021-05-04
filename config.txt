@@ -1,2 +1,3 @@
 name=main
 "This is branch - B1"
+"We are in Branch B2"
